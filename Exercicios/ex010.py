@@ -1,0 +1,1 @@
+# Lê quanto dinheiro tem na carteira e mostra quantos dólares pode gastar, considerae 1 dólar = R$ 5,38
