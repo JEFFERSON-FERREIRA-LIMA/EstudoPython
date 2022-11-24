@@ -3,4 +3,4 @@
 a = float(input('Digite a altura da parede: '))
 l = float(input('Digite a largura da parede: '))
 
-print('Sua parede tem uma dimensão de {:.2f}x{:.2f} e sua área é de {:.2f}m².\nPara pintá-la, você precisará de {:.2f}l de tinta'.format(a, l, a*l,(a*l)/2))
+print('Sua parede tem uma dimensão de {:.2f}mx{:.2f}m e sua área é de {:.2f}m².\nPara pintá-la, você precisará de {:.2f}l de tinta'.format(a, l, a*l,(a*l)/2))
